@@ -1,0 +1,25 @@
+#section-1 {
+    height:100vh;
+    background-color: bisque;
+}
+
+#section-2 {
+    height:100vh;
+    background-color: pink;
+}
+
+#section-3 {
+    height:100vh;
+    background-color: salmon;
+}
+
+.square{
+    height:150px;
+    width:150px;
+    background-color: lightgreen;
+    border: dashed blue 3px;
+}
+
+#demo-relative {
+    /* write your code here */
+}
